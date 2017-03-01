@@ -51,8 +51,10 @@
     <Compile Include="Models\Header.cs" />
     <Compile Include="Models\HttpRequest.cs" />
     <Compile Include="Models\HttpResponse.cs" />
+    <Compile Include="Models\HttpSession.cs" />
     <Compile Include="Models\Route.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\SessionCreator.cs" />
     <Compile Include="Utilities\StreamUtils.cs" />
   </ItemGroup>
   <ItemGroup>
